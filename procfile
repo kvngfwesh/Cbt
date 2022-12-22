@@ -1,0 +1,1 @@
+web: gunicorn Cbt.wsgi --log-file -
